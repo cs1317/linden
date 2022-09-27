@@ -15,7 +15,7 @@
 
     <properties>
         <spring.version>5.3.18</spring.version>
-        <jetty.version>9.4.34.v20201102</jetty.version>
+        <jetty.version>9.3.29.v20201019</jetty.version>
     </properties>
 
     <dependencies>
@@ -391,7 +391,7 @@
         <dependency>
             <groupId>log4j</groupId>
             <artifactId>log4j</artifactId>
-            <version>1.2.17</version>
+            <version>2.13.2</version>
         </dependency>
         <dependency>
             <groupId>com.googlecode.concurrent-trees</groupId>
